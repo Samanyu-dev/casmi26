@@ -1,0 +1,102 @@
+ref                                                              title                                               author                        lastRunTime                 totalVotes  
+---------------------------------------------------------------  --------------------------------------------------  ----------------------------  --------------------------  ----------  
+dmitriigluzdov/casmi-26-from-spectra-to-structures               CASMI 26: From Spectra to Structures                Dmitrii Gluzdov               2026-09-29 08:29:02.940000          34  
+denpugovkin/casmi-2026-protected-bio-db-tail                     CASMI 2026: Protected Bio-DB Tail                   Den Pugovkin                  2026-09-29 07:43:00.470000          42  
+beraterolelk/0-336-sota-enveda-casmi26-analog-ranker             ⚡ [0.336+ SOTA] Enveda CASMI26 Analog Ranker        Berat Erol ÇELİK              2026-09-29 06:58:20.860000          78  
+ahmedberatozer/casmi26-v4h-inference                             casmi26-v4h-inference                               Ahmed Berat Özer              2026-09-29 05:37:30.830000           9  
+wyananwyanan/channel-1                                           Channel 1                                           wyananwyanan                  2026-09-29 05:34:02.623000           1  
+tamerlanomralinov/casmi-tamerlan-baseline                        CASMI Tamerlan Baseline                             Tamerlan Omralinov            2026-09-29 05:24:39.930000           1  
+heon29/casmi26-measured-fork                                     casmi26-measured-fork                               Lê Bảo                        2026-09-29 04:54:52.990000           1  
+johnnyhyland/casmi-2026-data-prep                                CASMI 2026 - Data Prep                              Johnny Hyland                 2026-09-28 18:33:18.483000           0  
+flexonafft/casmi26-confidence-gated-analog-generation            CASMI26: Confidence-Gated Analog Generation         Igor Zharov                   2026-09-28 12:28:46.597000          29  
+chuanyuchangbio/casmi26-pipeline-v1                              casmi26-pipeline-v1                                 chuanyu chang bio             2026-09-28 11:28:24.707000           0  
+cacinie/casmi26-engine-v2                                        casmi26-engine-v2                                   Cacinie                       2026-09-28 09:36:15.080000           0  
+kozykappa/enveda-0-37-lb-score                                   Enveda 0.37 lb score                                Kydyrbek Kozykorpesh          2026-09-28 09:25:30.713000          24  
+ahmedberatozer/casmi26-v4g-inference                             casmi26-v4g-inference_                              Ahmed Berat Özer              2026-09-28 07:55:41.387000          17  
+dedquoc/casmi-26-dual-channel-heuristic-alignment-engine         CASMI-26-Dual-Channel Heuristic Alignment Engine    De DQ                         2026-09-28 06:54:11.463000           1  
+uninhibitedscholar/e-nurs-v5-replica-0928                        e-nurs-v5-replica-0928                              uninhibited-scholar           2026-09-28 05:58:02.247000           0  
+rachanabisht/casmi-denovo-baseline                               casmi denovo baseline                               Rachana                       2026-09-28 05:16:40.093000           0  
+kiranrao9949/chem-comps                                          chem comps                                          ARAVELLI UDAYKIRAN            2026-09-27 17:45:24.683000           0  
+haideptry/casmi26-v36-pure-champion                              CASMI26 V36 Pure Champion                           haideptry                     2026-09-27 15:41:25.873000           2  
+alpcancepik/eda-enveda-casmi                                     EDA_Enveda_Casmi                                    Alpcan Cepik                  2026-09-27 14:25:52.560000           0  
+haideptry/casmi26-v35-quad-isomer-champion                       casmi26 v35 quad isomer champion                    haideptry                     2026-09-27 10:12:43.373000           3  
+raunakdey07/casmi-26-two-ranker-adduct-shifted-engine            CASMI'26: Two-Ranker Adduct-Shifted Engine          Raunak Dey                    2026-09-26 18:22:43.043000          15  
+nursrijan/forensics-lab-dual-shield-two-ranker-sota              Forensics Lab - Dual-Shield Two-Ranker SOTA         Nur Srijan                    2026-09-26 16:39:36.147000           3  
+ahmedberatozer/casmi26-v4f-inference                             casmi26-v4f-inference                               Ahmed Berat Özer              2026-09-26 12:23:24.703000          18  
+senanuretin/casmi26-a-bigger-candidate-pool-lowered-my-score     CASMI26: A Bigger Candidate Pool Lowered My Score   Senanur Çetin                 2026-09-26 08:43:29.523000           0  
+uninhibitedscholar/e-nurs-v5-static-replay-0926                  e-nurs-v5-static-replay-0926                        uninhibited-scholar           2026-09-26 07:25:02.540000           0  
+uninhibitedscholar/e-v32-relative-ranker-pv-only-candidate-0926  E v32 relative ranker PV-only candidate 0926        uninhibited-scholar           2026-09-26 07:06:02.430000           0  
+saurabhkumar234/01-casmi26-preparation-v1-offline-assets         01_CASMI26_Preparation_V1_Offline_Assets            100rabh                       2026-09-26 06:11:41.733000           0  
+soyebuzamannaim/casmi26-high-accuracy-quad-channel-ranker        CASMI26 high-accuracy quad-channel ranker           Soyebuzaman Naim              2026-09-26 05:06:41.260000           0  
+xhhuang/enveda-casmi-v36-clean-champion-engine                   enveda-casmi-v36-clean-champion-engine              wqsh                          2026-09-26 04:03:23.997000           0  
+xhhuang/enveda-casmi-v35-sota-engine                             enveda-casmi-v35-sota-engine                        wqsh                          2026-09-26 02:09:30.420000           0  
+kwabenantiamoahlarbi/notebook2622ddd21f                          notebook2622ddd21f                                  Kwabena Ntiamoah Larbi        2026-09-25 23:18:12.677000           0  
+evgendvorkin/enveda-casmi-2026                                   Enveda CASMI 2026                                   Дворкин Евгений Владимирович  2026-09-25 21:28:47.090000         102  
+xhhuang/enveda-casmi-v34-sota-ensemble                           enveda-casmi-v34-sota-ensemble                      wqsh                          2026-09-25 20:47:54.667000           0  
+veluguyoshith/casmi-2026-spectral-retrieval-baseline             CASMI 2026 Spectral Retrieval Baseline              velugu yoshith                2026-09-25 19:29:44.217000           0  
+uninhibitedscholar/e-v32-relative-ranker-replica-0926            E v32 relative-ranker replica 0926                  uninhibited-scholar           2026-09-25 19:03:21.703000           0  
+uninhibitedscholar/e-haideptry-v32-cpu-replica                   E Haideptry v32 CPU replica                         uninhibited-scholar           2026-09-25 16:38:31.987000           0  
+tamerlanomralinov/casmi26-stage2-class3-sim                      CASMI26 Stage2 Class3 Sim                           Tamerlan Omralinov            2026-09-25 15:42:29.490000           0  
+soyebuzamannaim/casmi-2                                          casmi-2                                             Soyebuzaman Naim              2026-09-25 14:42:07.367000           0  
+catsfunny/casmi26-next-direct-w088                               CASMI26 Next Direct W088                            Cats Funny                    2026-09-25 13:50:45.100000           1  
+haideptry/0-350-casmi-2026-v32-ensemble                          0.350+ CASMI 2026 v32 Ensemble                      haideptry                     2026-09-25 13:27:25.597000          32  
+bobthebot369/enveda-casmi-2026-v9-frontier-sota                  Enveda CASMI 2026 V9 Frontier SOTA                  BobtheBot369                  2026-09-25 12:01:46.503000           0  
+matweyisupov/casmi26-v8-gated-hybrid                             casmi26-v8-gated-hybrid                             Chellick                      2026-09-25 09:46:29.643000           3  
+matweyisupov/casmi26-v8-hybrid-static-fallback                   casmi26-v8-hybrid-static-fallback                   Chellick                      2026-09-25 09:24:14.300000           0  
+matweyisupov/casmi26-v3-hybrid-static-fallback                   casmi26-v3-hybrid-static-fallback                   Chellick                      2026-09-25 08:57:23.137000           5  
+krishnahanda01234/submission-enveda-v2                           submission_enveda_v2                                Krishna Handa                 2026-09-25 08:51:41.190000           0  
+uninhibitedscholar/casmi26-v32-two-ranker-postprocessor-cpu-v2   CASMI26 v32 two-ranker postprocessor CPU v2         uninhibited-scholar           2026-09-25 07:39:14.723000           3  
+uninhibitedscholar/casmi26-rayyang-static-public-replica-v2      CASMI26 Rayyang static public replica v2            uninhibited-scholar           2026-09-25 07:30:33.390000           0  
+uninhibitedscholar/casmi26-strong-retrieval-replica-v23          CASMI26 strong retrieval replica v23                uninhibited-scholar           2026-09-25 01:39:54.457000           0  
+bobthebot369/enveda-casmi-2026-v8-frontier-sota                  Enveda CASMI 2026 V8 Frontier SOTA                  BobtheBot369                  2026-09-24 23:35:12.263000           0  
+srabonpaul/notebookf0174242d8                                    notebookf0174242d8                                  Srabon Paul                   2026-09-24 21:38:18.347000           0  
+senanuretin/casmi26-your-ranker-learns-how-you-built-the-pool    CASMI26: Your Ranker Learns How You Built the Pool  Senanur Çetin                 2026-09-24 17:54:54.023000           0  
+lucifer19/ionwraith-evidence-guided-molecule-id                  IONWRAITH | Evidence-Guided Molecule ID             Agent Trainer                 2026-09-24 13:59:49.817000           7  
+heon29/casmi26-baseline                                          casmi26-baseline                                    Lê Bảo                        2026-09-24 13:08:11.770000           3  
+shashwat1729/casmi-submit-e02-retrieval-propagation              CASMI Submit E02 — Retrieval+Propagation            Shashwat Bajpai               2026-09-24 08:41:04.113000           0  
+koushikkumardinda/casmi-2026-mass-to-smiles-retrieval-baseline   CASMI 2026: Mass-to-SMILES Retrieval Baseline       KOUSHIK KUMAR DINDA           2026-09-24 06:47:48.837000           0  
+uninhibitedscholar/e-public-v62-v59-static-cpu-reproduction      E public V62 V59 static CPU reproduction            uninhibited-scholar           2026-09-24 03:10:49.527000           0  
+xhhuang/enveda-casmi-clean-consensus                             enveda-casmi-clean-consensus                        wqsh                          2026-09-23 22:18:43.850000           0  
+ahmedberatozer/casmi26-v3-inference                              casmi26-v3-inference                                Ahmed Berat Özer              2026-09-23 16:33:47.323000          29  
+qiuqiuh/casmi26-analog-prop-v6-xadduct                           CASMI26 analog prop v6 xadduct                      qiuqiu                        2026-09-23 12:27:33.497000           0  
+franciscoangulo/enveda-casmi-v62-v59-pubchemlite-mist-dedup      Enveda CASMI V62 V59 PubChemLite MIST dedup         Francisco Angulo de Lafuente  2026-09-23 11:53:22.333000           2  
+franciscoangulo/enveda-casmi-v60-qtof-msbuddy-mist-dedup         Enveda CASMI V60 qtof msbuddy MIST dedup            Francisco Angulo de Lafuente  2026-09-23 10:55:36.417000           1  
+franciscoangulo/enveda-casmi-v59-offline-msbuddy-full-dedup      Enveda CASMI V59 offline msbuddy full dedup         Francisco Angulo de Lafuente  2026-09-23 09:01:18.947000           0  
+franciscoangulo/enveda-casmi-v57-v54-metric-dedup                Enveda CASMI V57 V54 metric dedup                   Francisco Angulo de Lafuente  2026-09-23 07:26:16.937000           0  
+franciscoangulo/enveda-casmi-v57-v54-evaluator-metric-dedup      Enveda CASMI V57 V54 evaluator metric dedup         Francisco Angulo de Lafuente  2026-09-23 07:24:45.813000           0  
+franciscoangulo/enveda-casmi-v56-dynamic-mist-msbuddy-dedup      Enveda CASMI V56 dynamic MIST msbuddy dedup         Francisco Angulo de Lafuente  2026-09-23 07:21:09.100000           0  
+franciscoangulo/enveda-casmi-v55-public-v65-metric-dedup         Enveda CASMI V55 public v65 metric dedup            Francisco Angulo de Lafuente  2026-09-23 06:43:16.327000           0  
+franciscoangulo/enveda-casmi-v54-public-0342-control             enveda casmi v54 public 0342 control                Francisco Angulo de Lafuente  2026-09-23 06:13:18.617000           0  
+fransescoshawn/casmi-denovo-shawn                                CASMI denovo Shawn                                  FRANSESCO SHAWN               2026-09-23 02:29:40.077000           0  
+monjyotid/casmi26-mist-consensus-trial                           casmi26-mist-consensus-trial                        MonjyotiD                     2026-09-22 19:52:50.097000           0  
+monjyotid/casmi26-mist-v65-trial                                 casmi26-mist-v65-trial                              MonjyotiD                     2026-09-22 19:40:35.130000           0  
+monjyotid/casmi26-r32-top10-trial                                casmi26-r32-top10-trial                             MonjyotiD                     2026-09-22 19:36:55.767000           0  
+monjyotid/casmi26-exact-public-control-trial                     casmi26-exact-public-control-trial                  MonjyotiD                     2026-09-22 19:31:11.813000           0  
+monjyotid/casmi26-best-control-trial                             casmi26-best-control-trial                          MonjyotiD                     2026-09-22 19:25:10.513000           0  
+monjyotid/casmi26-genll-massfiltered-trial                       casmi26-genll-massfiltered-trial                    MonjyotiD                     2026-09-22 19:20:09.017000           0  
+monjyotid/casmi26-r32-massfiltered-trial                         casmi26-r32-massfiltered-trial                      MonjyotiD                     2026-09-22 19:20:05.777000           0  
+monjyotid/casmi26-genll-consensus-trial                          casmi26-genll-consensus-trial                       MonjyotiD                     2026-09-22 19:16:44.043000           0  
+monjyotid/casmi26-r32-consensus-trial                            casmi26-r32-consensus-trial                         MonjyotiD                     2026-09-22 19:16:40.480000           0  
+monjyotid/casmi26-consensus-trial                                casmi26-consensus-trial                             MonjyotiD                     2026-09-22 18:54:16.547000           0  
+monjyotid/casmi26-v26-public-trial                               casmi26-v26-public-trial                            MonjyotiD                     2026-09-22 18:48:16.867000           0  
+alexchilton/casmi26-mist-blend-msbuddy-v65                       casmi26 mist blend msbuddy v65                      alex chilton                  2026-09-22 14:28:34.620000           0  
+tablefeng/casmi-submission                                       Casmi Submission                                    Table Feng                    2026-09-22 08:31:47.540000           2  
+alexchilton/casmi26-tutorial-and-glossary-from-a-0-342-scorer    CASMI26 Tutorial and Glossary from a 0 342 Scorer   alex chilton                  2026-09-22 04:20:09.100000           1  
+dariushafshar/casmi26-sort-order-moves-mrr-0-03-at-250-queries   CASMI26: Sort Order Moves MRR 0.03 at 250 Queries   Dariush Afshar                2026-09-22 03:39:10.383000           2  
+xolotlmictlan/casmi26-r32-rows-v4-rrf-w1k1                       Casmi26 R32 rows-v4+rrf-w1k1                        Xolotl                        2026-09-22 02:09:56.593000           0  
+xolotlmictlan/casmi26-r32-rrf-w1k1                               Casmi26 R32 rrf-w1k1                                Xolotl                        2026-09-22 02:09:51.417000           0  
+haideptry/casmi26-v27-tautomer-adduct-sota                       CASMI26 V27 Tautomer Adduct SOTA                    haideptry                     2026-09-22 00:17:28.683000           1  
+dariushafshar/casmi26-183k-decoy-candidates-cost-you-16-5        CASMI26: 183k Decoy Candidates Cost You 16.5%       Dariush Afshar                2026-09-21 23:56:11.543000           0  
+xolotlmictlan/casmi26-r32-rows-v4                                Casmi26 R32 rows-v4                                 Xolotl                        2026-09-21 23:48:05.203000           0  
+shorooghahmadi/casmi2026-3                                       casmi2026-3                                         Shoroogh Ahmadi               2026-09-21 21:44:34.343000           0  
+prvsiyan/analog-propagation-casmi-2026-baseline                  Analog Propagation - CASMI 2026 baseline            prvsiyan                      2026-09-21 20:59:45.720000         114  
+minedmap/casmi26-baseline-fork                                   CASMI26 baseline fork                               minedmap                      2026-09-21 20:51:16.720000           0  
+ashwanidhukra/casmi26-by-win-2                                   CASMI26 BY WIN 2                                    Ashwani                       2026-09-21 20:28:24.233000           1  
+rabbitpeace310/casmi26-two-rankers-one-engine                    CASMI26 Two Rankers One Engine                      k310                          2026-09-21 20:03:48.800000           0  
+ahmedberatozer/casmi26-v2-baseline                               casmi26 v2 : Baseline                               Ahmed Berat Özer              2026-09-21 16:33:52.040000          36  
+kotaroosako/casmi26-baseline-run                                 CASMI26 Baseline Run                                vamos_field                   2026-09-21 14:56:31.543000           0  
+shorooghahmadi/not-enveda-casmi-2                                not enveda casmi-2                                  Shoroogh Ahmadi               2026-09-21 13:38:26.867000           0  
+nauvidscience/casmi26-library-search-baseline                    Casmi26 Library Search Baseline                     Fikri Kurnia                  2026-09-21 10:32:32.067000           2  
+amanatar/enveda-casmi-2026                                       Enveda CASMI 2026                                   Aman Atar                     2026-09-21 10:23:34.017000           1  
+starkhushi/casmi-2026-fragmentation-check                        CASMI 2026 Fragmentation Check                      starkhushi                    2026-09-21 09:55:14.627000           5  
+alexchilton/casmi26-genll-tail-v58                               casmi26 genll tail v58                              alex chilton                  2026-09-21 09:31:39.613000           2  
