@@ -1,0 +1,18 @@
+{
+ "secs": 7846,
+ "merge": {
+  "untouched": 400,
+  "gentle": 0,
+  "aggressive": 0,
+  "no_pc": 0
+ },
+ "n_errors": 0,
+ "families": [
+  "derivation",
+  "frag2",
+  "analog_struct",
+  "model_views",
+  "fragnet"
+ ],
+ "gpu": null
+}

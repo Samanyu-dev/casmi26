@@ -1,0 +1,135 @@
+[{"stream_name":"stderr","time":6.589282678,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.589356967,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.589363696,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.589367375,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.181302818,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.1813448300000005,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.181364083,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.181368801,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":8.806994992,"data":"rdkit wheel: ['/kaggle/input/datasets/metric/rdkit-2026-3-3-wheel/rdkit-2026.3.3-cp312-cp312-manylinux_2_28_x86_64.whl']\n"}
+,{"stream_name":"stdout","time":12.9059277,"data":" \n"}
+,{"stream_name":"stdout","time":12.905985091,"data":"rdkit 2026.03.3\n"}
+,{"stream_name":"stdout","time":43.668314983,"data":"V4CODE /kaggle/input/datasets/ahmedberatozer/casmi26-v4b-models/code \n"}
+,{"stream_name":"stdout","time":43.668366692,"data":"V4MOD /kaggle/input/datasets/ahmedberatozer/casmi26-v4b-models \n"}
+,{"stream_name":"stdout","time":43.668373322,"data":"V3CODE /kaggle/input/datasets/ahmedberatozer/casmi26-v3-models/code \n"}
+,{"stream_name":"stdout","time":43.668377219999996,"data":"POOL /kaggle/input/datasets/ahmedberatozer/casmi26-v2-pool \n"}
+,{"stream_name":"stdout","time":43.668380964,"data":"PC /kaggle/input/datasets/ahmedberatozer/casmi26-pubchem-tier \n"}
+,{"stream_name":"stdout","time":43.66838478,"data":"COMP /kaggle/input/competitions/enveda-CASMI26-molecule-id-mass-spectra\n"}
+,{"stream_name":"stdout","time":43.668388576,"data":"64 files match MANIFEST.json; families ['derivation', 'frag2', 'analog_struct', 'model_views', 'fragnet'] 35s\n"}
+,{"stream_name":"stdout","time":1293.624199564,"data":"logits for 400 molecules 176s\n"}
+,{"stream_name":"stdout","time":1293.624262154,"data":"  pubchem 25/400 239s\n"}
+,{"stream_name":"stdout","time":1293.624268667,"data":"  pubchem 50/400 306s\n"}
+,{"stream_name":"stdout","time":1293.624273193,"data":"  pubchem 75/400 369s\n"}
+,{"stream_name":"stdout","time":1293.624277407,"data":"  pubchem 100/400 439s\n"}
+,{"stream_name":"stdout","time":1293.624282762,"data":"  pubchem 125/400 505s\n"}
+,{"stream_name":"stdout","time":1293.624287365,"data":"  pubchem 150/400 580s\n"}
+,{"stream_name":"stdout","time":1293.624291766,"data":"  pubchem 175/400 647s\n"}
+,{"stream_name":"stdout","time":1293.624296304,"data":"  pubchem 200/400 720s\n"}
+,{"stream_name":"stdout","time":1293.624300597,"data":"  pubchem 225/400 781s\n"}
+,{"stream_name":"stdout","time":1293.624304778,"data":"  pubchem 250/400 848s\n"}
+,{"stream_name":"stdout","time":1293.624309229,"data":"  pubchem 275/400 915s\n"}
+,{"stream_name":"stdout","time":1293.624313933,"data":"  pubchem 300/400 976s\n"}
+,{"stream_name":"stdout","time":1293.624318119,"data":"  pubchem 325/400 1041s\n"}
+,{"stream_name":"stdout","time":1293.624322389,"data":"  pubchem 350/400 1114s\n"}
+,{"stream_name":"stdout","time":1293.624327772,"data":"  pubchem 375/400 1183s\n"}
+,{"stream_name":"stdout","time":1293.624332669,"data":"  pubchem 400/400 1246s\n"}
+,{"stream_name":"stdout","time":1293.624348503,"data":"pc_runner done 400 1246s\n"}
+,{"stream_name":"stdout","time":1293.624352325,"data":"\n"}
+,{"stream_name":"stdout","time":1293.624355419,"data":"\n"}
+,{"stream_name":"stdout","time":1293.624358623,"data":"pubchem lists 400 1285s\n"}
+,{"stream_name":"stdout","time":1309.323073439,"data":"rg 0: 131072 spectra, 8056471 peaks, total peaks 8056471, 15s\n"}
+,{"stream_name":"stdout","time":1318.746133061,"data":"rg 1: 131072 spectra, 7943857 peaks, total peaks 16000328, 25s\n"}
+,{"stream_name":"stdout","time":1328.375230776,"data":"rg 2: 131072 spectra, 7940932 peaks, total peaks 23941260, 34s\n"}
+,{"stream_name":"stdout","time":1337.610465261,"data":"rg 3: 131072 spectra, 7902093 peaks, total peaks 31843353, 43s\n"}
+,{"stream_name":"stdout","time":1346.904814039,"data":"rg 4: 131072 spectra, 7987759 peaks, total peaks 39831112, 53s\n"}
+,{"stream_name":"stdout","time":1356.791078065,"data":"rg 5: 131072 spectra, 7932300 peaks, total peaks 47763412, 63s\n"}
+,{"stream_name":"stdout","time":1366.895538345,"data":"rg 6: 131072 spectra, 7917009 peaks, total peaks 55680421, 73s\n"}
+,{"stream_name":"stdout","time":1376.737875939,"data":"rg 7: 131072 spectra, 7907716 peaks, total peaks 63588137, 83s\n"}
+,{"stream_name":"stdout","time":1386.522382157,"data":"rg 8: 131072 spectra, 8532604 peaks, total peaks 72120741, 92s\n"}
+,{"stream_name":"stdout","time":1396.25566292,"data":"rg 9: 131072 spectra, 11067599 peaks, total peaks 83188340, 102s\n"}
+,{"stream_name":"stdout","time":1402.254843831,"data":"rg 10: 131072 spectra, 6944108 peaks, total peaks 90132448, 108s\n"}
+,{"stream_name":"stdout","time":1412.614897219,"data":"rg 11: 131072 spectra, 11047607 peaks, total peaks 101180055, 118s\n"}
+,{"stream_name":"stdout","time":1415.634925444,"data":"rg 12: 131072 spectra, 4306455 peaks, total peaks 105486510, 121s\n"}
+,{"stream_name":"stdout","time":1418.926131041,"data":"rg 13: 131072 spectra, 4384884 peaks, total peaks 109871394, 125s\n"}
+,{"stream_name":"stdout","time":1422.281715663,"data":"rg 14: 131072 spectra, 4353287 peaks, total peaks 114224681, 128s\n"}
+,{"stream_name":"stdout","time":1425.591195549,"data":"rg 15: 131072 spectra, 4390836 peaks, total peaks 118615517, 131s\n"}
+,{"stream_name":"stdout","time":1428.68608597,"data":"rg 16: 131072 spectra, 3587033 peaks, total peaks 122202550, 135s\n"}
+,{"stream_name":"stdout","time":1431.703049037,"data":"rg 17: 131072 spectra, 3264195 peaks, total peaks 125466745, 138s\n"}
+,{"stream_name":"stdout","time":1434.679936629,"data":"rg 18: 131072 spectra, 3297555 peaks, total peaks 128764300, 141s\n"}
+,{"stream_name":"stdout","time":1436.785512445,"data":"rg 19: 48056 spectra, 4310906 peaks, total peaks 133075206, 143s\n"}
+,{"stream_name":"stdout","time":1437.094648139,"data":"rg 20: 1184 spectra, 152902 peaks, total peaks 133228108, 143s\n"}
+,{"stream_name":"stdout","time":1439.883385451,"data":"spectra 2539608 peaks 133228108 sid\u003c0: 0 nm nan: 339\n"}
+,{"stream_name":"stdout","time":1439.883427435,"data":"done 146s\n"}
+,{"stream_name":"stdout","time":1439.883434434,"data":"casmi from /kaggle/input/datasets/ahmedberatozer/casmi26-v4b-models/code/casmi/__init__.py\n"}
+,{"stream_name":"stdout","time":1439.883439862,"data":"cache built 1432s\n"}
+,{"stream_name":"stdout","time":1446.831502148,"data":"[Library] 2,539,608 spectra, 275,810 structures, 133,228,108 peaks (1.4s)\n"}
+,{"stream_name":"stdout","time":1475.742632787,"data":"[Pool] 710,701 structures, nbits 10226, frag yes (28.9s)\n"}
+,{"stream_name":"stdout","time":1484.226157348,"data":"[Engine] reps 445,686 (0.5s)\n"}
+,{"stream_name":"stdout","time":1492.219938091,"data":"derivation prior self-test mismatches: 0\n"}
+,{"stream_name":"stdout","time":1492.22002933,"data":"engine ready; ranker features 160 boosters 4 1484s\n"}
+,{"stream_name":"stdout","time":1589.13556136,"data":"  25/400 molecules 1581s\n"}
+,{"stream_name":"stdout","time":1665.357616801,"data":"  50/400 molecules 1657s\n"}
+,{"stream_name":"stdout","time":1741.176377113,"data":"  75/400 molecules 1733s\n"}
+,{"stream_name":"stdout","time":1819.715264462,"data":"  100/400 molecules 1811s\n"}
+,{"stream_name":"stdout","time":1892.768166788,"data":"  125/400 molecules 1884s\n"}
+,{"stream_name":"stdout","time":1968.559655799,"data":"  150/400 molecules 1960s\n"}
+,{"stream_name":"stdout","time":2049.091864466,"data":"  175/400 molecules 2041s\n"}
+,{"stream_name":"stdout","time":2123.19021039,"data":"  200/400 molecules 2115s\n"}
+,{"stream_name":"stdout","time":2197.602377336,"data":"  225/400 molecules 2189s\n"}
+,{"stream_name":"stdout","time":2275.930488679,"data":"  250/400 molecules 2268s\n"}
+,{"stream_name":"stdout","time":2353.398379215,"data":"  275/400 molecules 2345s\n"}
+,{"stream_name":"stdout","time":2431.017228007,"data":"  300/400 molecules 2423s\n"}
+,{"stream_name":"stdout","time":2504.666428192,"data":"  325/400 molecules 2496s\n"}
+,{"stream_name":"stdout","time":2578.188802816,"data":"  350/400 molecules 2570s\n"}
+,{"stream_name":"stdout","time":2661.397479332,"data":"  375/400 molecules 2653s\n"}
+,{"stream_name":"stdout","time":2737.562291966,"data":"  400/400 molecules 2729s\n"}
+,{"stream_name":"stdout","time":2737.563384263,"data":"errors 0\n"}
+,{"stream_name":"stdout","time":2738.201879103,"data":"ICE input molecules 400 candidates 21251 2730s\n"}
+,{"stream_name":"stdout","time":5450.16386525,"data":"[ice     1.7s] installing wheels -\u003e /kaggle/working/ice_site\n"}
+,{"stream_name":"stdout","time":5450.163932575,"data":"[ice     4.3s] stubbed (absent) modules: ['pygmtools']\n"}
+,{"stream_name":"stdout","time":5450.16393882,"data":"[ice     5.9s] cuda unavailable -\u003e cpu\n"}
+,{"stream_name":"stdout","time":5450.163949052,"data":"[ice    24.0s] ms_pred tautomer mode v2 cache /tmp/ice_ms_pred_cache\n"}
+,{"stream_name":"stdout","time":5450.163952599,"data":"[ice    24.8s] model loaded on cpu (rdkit 2025.03.6, torch 2.10.0+cpu, numba True)\n"}
+,{"stream_name":"stdout","time":5450.163956587,"data":"/kaggle/input/datasets/ahmedberatozer/casmi26-iceberg/src/ms_pred/nn_utils/nn_utils.py:1175: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)\n"}
+,{"stream_name":"stdout","time":5450.163961345,"data":"  out = out @ adj\n"}
+,{"stream_name":"stdout","time":5450.163977591,"data":"[ice  1298.9s] chunk: 31 mols 3009 jobs 1265.4s (31/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5450.163983514,"data":"[ice  2589.4s] chunk: 28 mols 3094 jobs 1287.0s (59/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5450.163988704,"data":"[ice  2709.2s] status budget {'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 59, 'n_cands': 21251, 'n_scored': 2923}\n"}
+,{"stream_name":"stdout","time":5450.16399437,"data":"\n"}
+,{"stream_name":"stdout","time":5450.163998854,"data":"{'status': 'budget', 'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 59, 'n_cands': 21251, 'n_scored': 2923, 'seconds': 2709.17, 'pred_per_s': 2.4, 'device': 'cpu', 'rdkit': '2025.03.6', 'max_mem_gb': None}\n"}
+,{"stream_name":"stdout","time":5450.164005415,"data":"ICE meta {\"status\": \"budget\", \"n_mols\": 400, \"n_mols_scored\": 59, \"n_mols_covered\": 371, \"n_cands\": 21251, \"n_scored\": 2923, \"errors\": [], \"rdkit\": \"2025.03.6\", \"torch\": \"2.10.0+cpu\", \"device\": \"cpu\", \"t_load\": 24.78, \"n_pred\": 6391, \"n_pred_fail\": 0, \"t_pred\": 2668.27, \"n_bad_smiles\": 0, \"pred_per_s\": 2.4, \"seconds\": 2709.17, \"log_tail\": [\"[ice     1.7s] installing wheels -\u003e /kaggle/working/ice_site\", \"[ice     4.3s] stubbed (absent) modules: ['pygmtools']\", \"[ice     5.9s] cuda unavailable -\u003e cpu\", \"[ice    24.0s] ms_pred tautomer mode v2 cache /tmp/ice_ms_pred_cache\", \"[ice    24.8s] model loaded on cpu (rdkit 2025.03.6, torch 2.10.0+cpu, numba True)\", \"[ice  1298.9s] chunk: 31 mols 3009 jobs 1265.4s (31/371 covered mols scored)\", \"[ice  2589.4s] chunk: 28 mols 3094 jobs 1287.0s (59/371 covered mols scored)\"]}\n"}
+,{"stream_name":"stdout","time":7853.971892808,"data":"[gl     0.5s] site ready (marker matches): /kaggle/working/ice_site\n"}
+,{"stream_name":"stdout","time":7853.971930392,"data":"[gl     0.6s] stubbed (absent) modules: ['pygmtools']\n"}
+,{"stream_name":"stdout","time":7853.971936695,"data":"[gl     2.2s] cuda unavailable -\u003e cpu\n"}
+,{"stream_name":"stdout","time":7853.971942299,"data":"[gl    16.4s] GLACIER loaded: 15,108,154 params \n"}
+,{"stream_name":"stdout","time":7853.97194766,"data":"[gl    16.4s] model loaded on cpu (rdkit 2025.03.6, torch 2.10.0+cpu, numba True, threads 2)\n"}
+,{"stream_name":"stdout","time":7853.97195375,"data":"/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:531: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)\n"}
+,{"stream_name":"stdout","time":7853.971961282,"data":"  output = torch._nested_tensor_from_mask(\n"}
+,{"stream_name":"stdout","time":7853.971965772,"data":"[gl   244.6s] chunk: 31 mols 3009 jobs 222.4s (31/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.971970394,"data":"[gl   453.3s] chunk: 28 mols 3094 jobs 207.7s (59/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.971975071,"data":"[gl   668.6s] chunk: 26 mols 3044 jobs 214.4s (85/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.97197996,"data":"[gl   875.9s] chunk: 25 mols 3017 jobs 206.3s (110/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.971984839,"data":"[gl  1087.4s] chunk: 27 mols 3086 jobs 210.4s (137/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.971989544,"data":"[gl  1275.5s] chunk: 25 mols 3161 jobs 187.2s (162/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.971994142,"data":"[gl  1466.4s] chunk: 25 mols 3014 jobs 190.0s (187/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.97199881,"data":"[gl  1665.7s] chunk: 28 mols 3042 jobs 198.3s (215/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.97200328,"data":"[gl  1866.5s] chunk: 28 mols 3065 jobs 199.7s (243/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.972007616,"data":"[gl  2073.4s] chunk: 28 mols 3049 jobs 205.9s (271/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.972012128,"data":"[gl  2283.8s] chunk: 28 mols 3081 jobs 209.3s (299/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":7853.972016849,"data":"[gl  2400.3s] status budget {'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 299, 'n_cands': 21251, 'n_scored': 15897}\n"}
+,{"stream_name":"stdout","time":7853.972021796,"data":"\n"}
+,{"stream_name":"stdout","time":7853.972026346,"data":"{'status': 'budget', 'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 299, 'n_cands': 21251, 'n_scored': 15897, 'seconds': 2400.22, 'pred_per_s': 14.63, 'device': 'cpu', 'rdkit': '2025.03.6', 'max_mem_gb': None}\n"}
+,{"stream_name":"stdout","time":7853.972044441,"data":"GL meta {\"model\": \"glacier\", \"status\": \"budget\", \"n_mols\": 400, \"n_mols_scored\": 299, \"n_mols_covered\": 371, \"n_cands\": 21251, \"n_scored\": 15897, \"errors\": [], \"rdkit\": \"2025.03.6\", \"torch\": \"2.10.0+cpu\", \"device\": \"cpu\", \"t_load\": 16.38, \"n_pred\": 34613, \"n_pred_fail\": 0, \"n_feat_fail\": 0, \"t_pred\": 2365.51, \"n_bad_smiles\": 0, \"pred_per_s\": 14.63, \"bs_final\": 32, \"seconds\": 2400.22, \"log_tail\": [\"[gl     0.5s] site ready (marker matches): /kaggle/working/ice_site\", \"[gl     0.6s] stubbed (absent) modules: ['pygmtools']\", \"[gl     2.2s] cuda unavailable -\u003e cpu\", \"[gl    16.4s] GLACIER loaded: 15,108,154 params \", \"[gl    16.4s] model loaded on cpu (rdkit 2025.03.6, torch 2.10.0+cpu, numba True, threads 2)\", \"[gl   244.6s] chunk: 31 mols 3009 jobs 222.4s (31/371 covered mols scored)\", \"[gl   453.3s] chunk: 28 mols 3094 jobs 207.7s (59/371 covered mols scored)\", \"[gl   668.6s] chunk: 26 mols 3044 jobs 214.4s (85/371 covered mols scored)\", \"[gl   875.9s] chunk: 25 mols 3017 jobs 206.3s (110/371 covered mols scored)\", \"[gl  1087.4s] chunk: 27 mols 3086 jobs 210.4s (137/371 covered mols scored)\", \"[gl  1275.5s] chunk: 25 mols 3161 jobs 187.2s (162/371 covered mols scored)\", \"[gl  1466.4s] chunk: 25 mols 3014 jobs 190.0s (187/371 covered mols scored)\", \"[gl  1665.7s] chunk: 28 mols 3042 jobs 198.3s (215/371 covered mols scored)\", \"[gl  1866.5s] chunk: 28 mols 3065 jobs 199.7s (243/371 covered mols scored)\", \"[gl  2073.4s] chunk: 28 mols 3049 jobs 205.9s (271/371 covered mols scored)\", \"[gl\n"}
+,{"stream_name":"stdout","time":7853.972060375,"data":"ICE rerank stats {'molecules': 59, 'changed_top25': 56, 'changed_top1': 2} 7846s\n"}
+,{"stream_name":"stdout","time":7853.972064333,"data":"GL rerank stats {'molecules': 59, 'changed_vs_ice_top25': 56, 'changed_vs_ice_top1': 1} 7846s\n"}
+,{"stream_name":"stdout","time":7854.045816086,"data":"merge stats {'untouched': 400, 'gentle': 0, 'aggressive': 0, 'no_pc': 0}\n"}
+,{"stream_name":"stdout","time":7854.045862403,"data":"done (400, 2) 7846s\n"}
+,{"stream_name":"stderr","time":7858.122059937,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":7858.122092576,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":7858.271457334,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":7858.27148413,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":7858.932742309,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":7859.246403756,"data":"[NbConvertApp] Writing 47949 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":7861.81021375,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":7862.705059325,"data":"[NbConvertApp] Writing 414812 bytes to __results__.html\n"}
+]
