@@ -1,0 +1,13 @@
+# data & environments (too large / reproducible)
+data/
+.venv/
+__pycache__/
+*.zip
+# third-party public notebooks & code pulled for reference (not ours to redistribute)
+ref/
+arena/*/pulled/
+# bulky Kaggle run outputs
+exp/out/work/
+exp/out/numba_cache/
+*.npy
+.DS_Store
